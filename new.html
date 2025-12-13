@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>food web site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="logo">sk food restaurant</div>
+        <ul class="nav-links">
+            <li><a href="amma.html">Home</a></li>
+            <li><a href="about.html">menu-card</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="bounce">
+      <h1>FOOD ORDER</h1>
+    </div>
+    <form action="#" method="post">
+  <div class="divs">
+    <h1>Food Order</h1>
+
+    <label for="itemname">Food name:</label><br>
+    <input type="text" id="itemname" name="itemname" required><br><br>
+
+    <label for="phone">Phone number:</label><br>
+    <input type="number" id="phone" name="phone" pattern="[0-9]{10}" required><br><br>
+
+    <label>
+      <input type="radio" name="food" value="full" required>
+      Full quantity
+    </label><br><br>
+
+    <label>
+      <input type="radio" name="food" value="half">
+      Half quantity
+    </label><br><br>
+
+    <button type="submit">Order</button>
+    <button type="reset">Reset</button>
+  </div>
+</form>
+
+    <div class="container">
+        <img src="sudheer.jpg" alt="food items" height="660px" style="border:2px solid red;">
+        <img src="sk.jpeg" alt="food items" width="400px" height="400px" style="border:2px solid black;">
+    </div>
+</body>
+
+</html>
