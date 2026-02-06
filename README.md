@@ -9,6 +9,10 @@ This project contains basic web files including:
 - `style.css` — styling for the webpage  
 - Image files (`sk.jpeg`, `sudheer.jpg`, `sudheer2.jpg`) used in the project
 
+
+![Uploading image.png…]()
+
+
 ## 🚀 How to View
 1. Clone the repository:
    ```sh
