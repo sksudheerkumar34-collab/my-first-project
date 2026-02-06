@@ -10,7 +10,7 @@ This project contains basic web files including:
 - Image files (`sk.jpeg`, `sudheer.jpg`, `sudheer2.jpg`) used in the project
 
 
-![Uploading image.png…]()
+
 
 
 ## 🚀 How to View
